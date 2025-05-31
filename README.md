@@ -2,11 +2,11 @@
 
 This project explores **neural network training using Particle Swarm Optimization (PSO)** and its **hybridization with Genetic Algorithms (GA)** for optimizing both structural (e.g., number of neurons) and non-structural (e.g., weights and biases) parameters. Multiple datasets have been used to evaluate model performance, and comparisons are made against traditional gradient-based methods like Adam.
 
-## 🧠 Overview
+## Overview
 
 Traditional gradient-based optimization (like Adam or SGD) can be sensitive to local minima and computationally expensive for large search spaces. This project investigates the use of **PSO**, and a **hybrid PSO-GA** strategy, to efficiently search complex optimization landscapes in both structural and non-structural domains of neural networks.
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 Root
@@ -35,7 +35,7 @@ Root
     └── Detailed methodology, experiments, results, and analysis
 ```
 
-## 📊 Datasets Used
+## Datasets Used
 
 * Iris
 * Digits
@@ -45,9 +45,9 @@ Root
 * MNIST
 * CIFAR-10 (used in report only)
 
-## ⚙️ Optimization Strategies
+## Optimization Strategies
 
-### ✅ Particle Swarm Optimization (PSO)
+### Particle Swarm Optimization (PSO)
 
 * Optimization of:
 
@@ -79,7 +79,7 @@ The PSO algorithm was tested on multiple datasets. Table II summarizes the resul
 * Poor-performing particles tended to linger and contribute minimally to convergence, reducing swarm diversity.
 * High-dimensional landscapes challenge PSO’s standard exploration mechanisms.
 
-### 🧬 PSO + Genetic Algorithm (Hybrid)
+### PSO + Genetic Algorithm (Hybrid)
 
 * Combines:
 
@@ -104,7 +104,7 @@ The PSO algorithm was tested on multiple datasets. Table II summarizes the resul
 * Demonstrated significant gains in datasets previously stagnant under PSO (e.g., Breast Cancer, Spam Base, MNIST).
 * Slight decline in CIFAR-10 improvements likely due to complex interdependencies in convolutional architectures.
 
-### 🧪 Benchmarks with Adam
+### Benchmarks with Adam
 
 | Dataset       | Loss | Accuracy |
 | ------------- | ---- | -------- |
