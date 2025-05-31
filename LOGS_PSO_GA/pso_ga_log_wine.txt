@@ -1,0 +1,42 @@
+Starting PSO-GA Hybrid Optimization
+----------------------------------
+
+Trial 1: Best Loss/Fitness PSO = 0.1928037703037262, Best Accuracy = 0.9722222089767456
+Trial 1: Best Loss/Fitness GA = 0.1928037703037262, Best Accuracy = 0.9722222089767456
+-----------------------------------------------------------------------------------------------
+Trial 2: Best Loss/Fitness PSO = 0.16229087114334106, Best Accuracy = 1.0
+Trial 2: Best Loss/Fitness GA = 0.16229087114334106, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 3: Best Loss/Fitness PSO = 0.1620725393295288, Best Accuracy = 1.0
+Trial 3: Best Loss/Fitness GA = 0.1620725393295288, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 4: Best Loss/Fitness PSO = 0.16117613017559052, Best Accuracy = 1.0
+Trial 4: Best Loss/Fitness GA = 0.16117613017559052, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 5: Best Loss/Fitness PSO = 0.13427461683750153, Best Accuracy = 1.0
+Trial 5: Best Loss/Fitness GA = 0.13427461683750153, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 6: Best Loss/Fitness PSO = 0.13417652249336243, Best Accuracy = 1.0
+Trial 6: Best Loss/Fitness GA = 0.13417652249336243, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 7: Best Loss/Fitness PSO = 0.12366046011447906, Best Accuracy = 1.0
+Trial 7: Best Loss/Fitness GA = 0.12366046011447906, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 8: Best Loss/Fitness PSO = 0.12171271443367004, Best Accuracy = 1.0
+Trial 8: Best Loss/Fitness GA = 0.12171271443367004, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 9: Best Loss/Fitness PSO = 0.05778571590781212, Best Accuracy = 1.0
+Trial 9: Best Loss/Fitness GA = 0.05778571590781212, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 10: Best Loss/Fitness PSO = 0.05778571590781212, Best Accuracy = 1.0
+Trial 10: Best Loss/Fitness GA = 0.05778571590781212, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 11: Best Loss/Fitness PSO = 0.05778571590781212, Best Accuracy = 1.0
+Trial 11: Best Loss/Fitness GA = 0.05778571590781212, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 12: Best Loss/Fitness PSO = 0.05778571590781212, Best Accuracy = 1.0
+Trial 12: Best Loss/Fitness GA = 0.05778571590781212, Best Accuracy = 1.0
+-----------------------------------------------------------------------------------------------
+Trial 13: Best Loss/Fitness PSO = 0.05778571590781212, Best Accuracy = 1.0
+
+Early stopping at trial 13 - No improvement for 5 consecutive trials.
