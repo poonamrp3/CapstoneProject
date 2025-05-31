@@ -119,7 +119,7 @@ The PSO algorithm was tested on multiple datasets. Table II summarizes the resul
 **Convergence Dynamics:**
 Gradient-based methods like Adam efficiently use derivatives, often outperforming PSO/GA in high-dimensional scenarios. Future work may explore hybridizing gradient and evolutionary approaches.
 
-## 📈 Key Insights
+## Key Insights
 
 * PSO achieved promising results in low- to mid-dimensional spaces.
 * Hybrid PSO+GA improved convergence and generalization in many scenarios.
